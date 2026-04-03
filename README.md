@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Hi 👋 I'm [Your Name]
+# Hi 👋 I'm Cindy Shin 
 
 🎓 Student  
 🌏 Originally from Korea
