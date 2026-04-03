@@ -23,7 +23,7 @@
 ---
 
 ## 📫 Contact
-- Email: your-email@gmail.com
+- Email: jinie7979@gmail.com
 <!--
 # Hi 👋 I'm [Your Namey]
 
