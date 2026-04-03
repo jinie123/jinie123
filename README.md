@@ -9,8 +9,8 @@
 ---
 
 ## 🙋‍♀️ About Me
-- 📚 I’m studying ...
-- 💻 I’m learning ...
+- 📚 I’m studying Emglish, It and programming.
+- 💻 I’m learning python and html programming.
 - 🎯 My goal is to improve my skills
 - 🌱 I enjoy learning step by step
 
