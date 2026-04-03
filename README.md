@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-# Hi 👋 I'm [Your Name]
+# Hi 👋 I'm [Your Namey]
 
 🎓 Student  
 🌏 Based in Thailand  
