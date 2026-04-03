@@ -1,7 +1,30 @@
 ## Hi there 👋
 
 <!--
-**jinie123/jinie123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm [Your Name]
+
+🎓 Student  
+🌏 Based in Thailand  
+💡 Learning new things every day  
+
+---
+
+## 🙋‍♀️ About Me
+- 📚 I’m studying ...
+- 💻 I’m learning ...
+- 🎯 My goal is to improve my skills
+- 🌱 I enjoy learning step by step
+
+---
+
+## 🛠️ Skills
+- Python / English / etc.
+- Problem solving
+
+---
+
+## 📫 Contact
+- Email: your-email@gmail.com
 
 Here are some ideas to get you started:
 
