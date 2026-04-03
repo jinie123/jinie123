@@ -2,6 +2,7 @@
 # Hi 👋 I'm [Your Name]
 
 🎓 Student  
+🌏 Originally from Korea
 🌏 Based in Thailand  
 💡 Learning new things every day  
 
